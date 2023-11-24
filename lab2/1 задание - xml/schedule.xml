@@ -1,0 +1,110 @@
+<schedule>
+	<week>
+		<day name="Понедельник">
+			<lesson>
+				<subject>Проектирование архитектуры программных систем</subject>
+				<classroom>102</classroom>
+				<teacher>Хаберев Е. А.</teacher>
+				<start_time>09:40</start_time>
+				<end_time>11:00</end_time>
+				<type>лекция</type>
+			</lesson>
+			<lesson>
+				<subject>Управление программными проектами</subject>
+				<classroom>510</classroom>
+				<teacher>Шестакова Л. В.</teacher>
+				<start_time>11:30</start_time>
+				<end_time>12:50</end_time>
+				<type>практика</type>
+			</lesson>
+			<lesson>
+				<subject>Научно-исследовательский семинар</subject>
+				<classroom>510</classroom>
+				<teacher>Викентьева О. Л.</teacher>
+				<start_time>13:10</start_time>
+				<end_time>14:30</end_time>
+				<type>практика</type>
+			</lesson>
+		</day>
+		<day name="Среда">
+			<lesson>
+				<subject>BI</subject>
+				<classroom>509</classroom>
+				<teacher>Комиссаров К. А.</teacher>
+				<start_time>08:10</start_time>
+				<end_time>09:30</end_time>
+				<type>практика</type>
+			</lesson>
+			<lesson>
+				<subject>BI</subject>
+				<classroom>102</classroom>
+				<teacher>Комиссаров К. А.</teacher>
+				<start_time>09:40</start_time>
+				<end_time>11:00</end_time>
+				<type>лекция</type>
+			</lesson>
+		</day>
+		<day name="Четверг">
+			<lesson>
+				<subject>Проектирование архитектуры программных систем</subject>
+				<classroom>509</classroom>
+				<teacher>Банников Р. А.</teacher>
+				<start_time>08:10</start_time>
+				<end_time>09:30</end_time>
+				<type>практика</type>
+			</lesson>
+			<lesson>
+				<subject>Академическое письмо на английском языке</subject>
+				<classroom>102</classroom>
+				<teacher>Туляков Д. С.</teacher>
+				<start_time>15:00</start_time>
+				<end_time>16:20</end_time>
+				<type>практика</type>
+			</lesson>
+		</day>
+		<day name="Пятница">
+			<lesson>
+				<subject>Интеллектуальные системы</subject>
+				<classroom>дистанционно</classroom>
+				<teacher>Мухин О. И.</teacher>
+				<start_time>09:40</start_time>
+				<end_time>11:00</end_time>
+				<type>практика</type>
+			</lesson>
+			<lesson>
+				<subject>Интеллектуальные системы</subject>
+				<classroom>дистанционно</classroom>
+				<teacher>Мухин О. И.</teacher>
+				<start_time>11:30</start_time>
+				<end_time>12:50</end_time>
+				<type>лекция</type>
+			</lesson>
+			<lesson>
+				<subject>Технологии анализа данных в сети Интернет</subject>
+				<classroom>дистанционно</classroom>
+				<teacher>Ланин В. В.</teacher>
+				<start_time>13:10</start_time>
+				<end_time>14:30</end_time>
+				<type>практика</type>
+			</lesson>
+			<lesson>
+				<subject>Технологии анализа данных в сети Интернет</subject>
+				<classroom>дистанционно</classroom>
+				<teacher>Ланин В. В.</teacher>
+				<start_time>15:00</start_time>
+				<end_time>16:20</end_time>
+				<type>лекция</type>
+			</lesson>
+		</day>
+		<day name="Суббота">
+			<lesson>
+				<subject>Управление программными проектами</subject>
+				<classroom>дистанционно</classroom>
+				<teacher>Климов Б. А.</teacher>
+				<start_time>11:30</start_time>
+				<end_time>12:50</end_time>
+				<type>лекция</type>
+			</lesson>
+		</day>
+	</week>
+</schedule>
